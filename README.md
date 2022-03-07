@@ -1,5 +1,5 @@
 # End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks
-Code for End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks (ICCV 2021).
+An implementation for paper End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks (ICCV 2021).
 ## Getting Started
 
 ### Installation
@@ -14,7 +14,7 @@ Code for End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neura
 
 ## Acknowledgement
 
-This code is mainly borrowed from [```CrossVIS```](https://github.com/hustvl/CrossVIS) and [```GSDT```](https://github.com/yongxinw/GSDT), thanks for their great work!
+Some codes are borrowed from [```CrossVIS```](https://github.com/hustvl/CrossVIS) and [```GSDT```](https://github.com/yongxinw/GSDT), thanks for their great work!
 
 ## Citation
 
