@@ -5,7 +5,7 @@ An implementation for paper End-to-End Video Instance Segmentation via Spatial-T
 ### Installation
 
 ### Data preparation
-
+Put the YouTube-VIS 2019 dataset under the folder ./dataset.
 ### Training
 
 ### Inference
